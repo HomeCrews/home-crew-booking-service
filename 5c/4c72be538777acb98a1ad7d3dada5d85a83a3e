@@ -1,0 +1,23 @@
+src/main/java/com/homecrew/bookingservice/BookingserviceApplication.java
+  s_3d9bbfd7b8519e::t_95f4b51d2fb5c6 10-12
+src/main/java/com/homecrew/bookingservice/controller/BookingController.java
+  s_3d9bbfd7b8519e::t_0873f175e84dd3 11-14
+src/test/java/com/homecrew/bookingservice/BookingserviceApplicationTests.java
+  s_3d9bbfd7b8519e::t_848e8927153d97 9-10
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "5c4c72be538777acb98a1ad7d3dada5d85a83a3e",
+  "prompts": {},
+  "sessions": {
+    "s_3d9bbfd7b8519e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "56713074-cac4-4411-b930-44405690d84c",
+        "model": "anthropic.claude-opus-5"
+      },
+      "human_author": "mThanuj <mullagurithanuj0@gmail.com>"
+    }
+  }
+}
