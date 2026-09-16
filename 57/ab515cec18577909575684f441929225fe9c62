@@ -1,0 +1,16 @@
+.githooks/checks/build.sh
+  h_bfc075b6e02f74 12-13
+.githooks/common.sh
+  h_bfc075b6e02f74 133-164
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "57ab515cec18577909575684f441929225fe9c62",
+  "prompts": {},
+  "humans": {
+    "h_bfc075b6e02f74": {
+      "author": "mThanuj <mullagurithanuj0@gmail.com>"
+    }
+  }
+}
