@@ -1,0 +1,16 @@
+pom.xml
+  h_bfc075b6e02f74 167-176
+src/main/resources/application.properties
+  h_bfc075b6e02f74 31-38
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "5ee0595004fba9acbf861e5df0eda8356e2916df",
+  "prompts": {},
+  "humans": {
+    "h_bfc075b6e02f74": {
+      "author": "mThanuj <mullagurithanuj0@gmail.com>"
+    }
+  }
+}
